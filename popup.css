@@ -42,7 +42,7 @@ li:hover {
 }
 
 li.active {
-    background-color: #7542e4;  /* Active color when clicked */
+    background-color: #7542e4;
 }
 
 .instructions li {
@@ -50,12 +50,11 @@ li.active {
 }
 
 a {
-    color: #ab71ff; /* Green color for normal links */
-    text-decoration: none; /* Remove underline */
+    color: #ab71ff; 
+    text-decoration: none; 
 }
 
-/* Change the color of links on hover */
 a:hover {
-    color: #9059ff; /* Slightly darker green when hovering */
-    text-decoration: underline; /* Underline on hover */
+    color: #9059ff; 
+    text-decoration: underline;
 }

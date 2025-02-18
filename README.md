@@ -1,15 +1,8 @@
-# job-digest
+# Job Digest
 
-# todo
-- case insensitivity
-- links to resources for each keyword (maybe not necessary)
-- reset button
-- better UI
-- custom keywords
-- please submit issue/pr if missing tech
-- if keyword is fully capitalized, case sensitive
-- if keyword is less than 3 letters, match whole word only
-    - could be helpful for stuff like node vs node.js or nodejs
-    - this is difficult
-- add warning about false negative and positive rates
+Firefox extension that scans and compiles software engineering related keywords from selected text. The words are sorted by "Languages", "Frameworks", "Technologies", and "Concepts". Useful for resume tailoring. 
+
+Like an "ATS", but for job postings!
+
+Feel free to submit any questions or issues.
 

@@ -10,7 +10,7 @@ fetch(browser.runtime.getURL("keywords.json"))
 
                 const selectedText = message.selection;
 
-                // Matching criteria for Languages, Frameworks, and Technologies
+                // Matching criteria for "Languages", "Frameworks", and "Technologies"
                 const matchKeyword = (keyword) => {
                     const flag = (keyword.length <= 3 || keyword === keyword.toUpperCase()) ? "" : "i";
                     const escapedKeyword = keyword.replace(/[.*+?^=!:${}()|\[\]\/\\]/g, '\\$&');
@@ -18,7 +18,7 @@ fetch(browser.runtime.getURL("keywords.json"))
                     return regex.test(selectedText);
                 };
 
-                // Concepts are matched with less criteria
+                // "Concepts" are matched with less criteria
                 const matchConcept = (keyword) => {
                     if (keyword.length <= 3 || keyword === keyword.toUpperCase()) {
                         return selectedText.includes(keyword);

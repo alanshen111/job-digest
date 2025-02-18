@@ -34,7 +34,7 @@ browser.tabs.query({ active: true, currentWindow: true }).then((tabs) => {
         });
     });
 
-}).catch(error => console.error("popup.js: Error fetching keywords:", error)); // Catch any errors
+}).catch(error => console.error("popup.js: Error fetching keywords:", error));
 
 function displayKeywords(keywordsListElement, keywords, title) {
     const titleElement = document.createElement("h3");

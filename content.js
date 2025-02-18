@@ -10,18 +10,26 @@ fetch(browser.runtime.getURL("keywords.json"))
 
                 const selectedText = message.selection;
 
-                // Matching criteria 
+                // Matching criteria for Languages, Frameworks, and Technologies
                 const matchKeyword = (keyword) => {
-                    // Escape special characters in the keyword for regex matching
                     const escapedKeyword = keyword.replace(/[.*+?^=!:${}()|\[\]\/\\]/g, '\\$&');
                     const regex = new RegExp(`(^|\\s|[.,!?;:/()\\[\\]{}\\-'""])${escapedKeyword}($|\\s|[.,!?;:/()\\[\\]{}\\-'""])`, "i");
                     return regex.test(selectedText);
                 };
 
+                // Concepts are matched differently, as they are common words with relaxed spellings and usage
+                const matchConcept = (keyword) => {
+                    // If the keyword is less than 3 characters or all uppercase, use sensitive matching
+                    if (keyword.length <= 3 || keyword === keyword.toUpperCase()) {
+                        return selectedText.includes(keyword);
+                    }
+                    return selectedText.toLowerCase().includes(keyword.toLowerCase());
+                }
+
                 const foundLanguages = keywords.languages.filter(matchKeyword);
                 const foundFrameworks = keywords.frameworks.filter(matchKeyword);
                 const foundTechnologies = keywords.technologies.filter(matchKeyword);
-                const foundConcepts = keywords.concepts.filter(matchKeyword);
+                const foundConcepts = keywords.concepts.filter(matchConcept);
 
                 browser.runtime.sendMessage({
                     action: "storeKeywords",

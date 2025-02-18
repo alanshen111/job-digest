@@ -1,0 +1,22 @@
+Your Responsibilities
+
+    Apply best ML techniques in context to develop the best models that generate high quality human motions which respond quickly to user pad inputs in game.
+    Integrate these models into C++ game code to implement or support shipping features
+    Develop and maintain a complete animation data pipeline for ML training from source to deployment.
+    Develop stress tests to fully test any deployed models.
+    Gather and analyze cases in deployment and come up with ways to optimize model performance.
+    Gather, annotate, or synthesize the required data for your models, based on EA FC’s extensive mocap and real-world volumetric data as well as feedback from our animation experts
+    Share your results through shipping product features, presentations, papers, prototypes and compelling interactive demonstrations
+    Stay abreast of the latest advancements and consult with internal stakeholders such as production, design, and artists, to identify opportunities and propose impactful projects
+
+Your Qualifications
+
+    BS in Computer Science, Mathematics or related field, or equivalent experience
+    3+ years of experience working with animation. Familiarity with 3D animation tools like MotionBuilder or game engines.
+    Experience in python programming with ML frameworks like PyTorch or TensorFlow
+    Experience in productizing ML solutions as standalone applications or as web services
+    Experience in optimizing ML models for memory and compute constrained real-time environments
+    Proficiency with C++ and Python
+    Experience in working with cloud technology and platforms, e.g. containers, Kubernetes, Azure, and AWS
+    Experience in working with GBs/TBs of data
+    Knowledge of 3D transformations

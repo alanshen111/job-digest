@@ -125,7 +125,8 @@
     "Unreal Engine",
     "Visual Studio",
     "Windows",
-    "Wireshark"
+    "Wireshark",
+    "x86"
   ],
   "concepts": [
     "3D",
@@ -165,13 +166,14 @@
     "Encrypt",
     "Firmware",
     "Frontend",
-    "Graphic",
+    "Graphics",
     "GUI",
     "Hardware",
     "HTTP",
     "Image",
     "IP",
     "IoT",
+    "Kernel",
     "Language Model",
     "LLM",
     "Machine Learning",

@@ -1,0 +1,63 @@
+We have several teams that focus on open source for embedded environments. We hire outstanding Linux software engineers with a passion for open source, innovation, cutting-edge hardware and software technologies in general. You will be expected to make significant contributions through high-quality design and code, and to develop your technical leadership.
+
+These roles include:
+
+    Ubuntu Core and snapd software development 
+    Silicon software and optimisation engineers 
+    Kernel driver and hardware enablement engineers 
+    Hardware-centric Linux QA Engineers 
+    Hardware Certification Engineers 
+    Robotics engineers 
+    Industrial IoT software engineers 
+    Networking software engineers (switching, routing, access and SmartNICs)
+
+At Canonical you will have the opportunity to engage with the broader open source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and contribute to the deployment of Ubuntu and Ubuntu Core across the widest range of devices.
+
+Location: we have remote roles open in every time zone.
+
+What your day will look like
+
+Based on the first round of interviews we identify specific teams where you might be an excellent fit, and conduct second round interviews with those teams. Our engineers:
+
+    Work with the latest Linux kernel and open source technologies
+    Deliver Ubuntu for the latest IoT and server-class hardware platforms
+    Integrate and maintain device-oriented software stacks
+    Write high-quality, well-designed software
+    Collaborate proactively with other globally distributed teams 
+    Display technical leadership internally and within our external communities 
+    Help our customers ship their apps and SDKs on Ubuntu
+    Build device OS images with Ubuntu Core, Desktop and Server
+    Optimise the Ubuntu kernel and libraries for silicon-specific capabilities 
+    Debug issues and produce high-quality code to fix them 
+    Contribute to technical documentation to make it the best of its kind 
+    Discuss ideas and collaborate on finding good solutions 
+    Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge 
+    Work usually from home, with global travel 2 to 4 weeks for company events 
+
+What we are looking for in you
+
+    An exceptional academic track record from both high school and university
+    Drive and a track record of going above-and-beyond expectations
+    Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+    Experience with Linux (Debian or Ubuntu preferred) 
+    Passion for Linux or embedded systems software (e.g. kernel, graphics, Yocto) 
+    Fluency in at least one of Golang, C, C++, or Rust 
+    Professional written and spoken English 
+    Excellent interpersonal skills, curiosity, flexibility, and accountability 
+    Passion, thoughtfulness, and self-motivation 
+    Excellent communication and presentation skills 
+    Result-oriented, with a personal drive to meet commitments 
+    Ability to travel twice a year, for company events up to two weeks each
+
+Additional Skills That You Might Also Bring
+
+    Experience with Debian/Ubuntu or other distro packaging 
+    Understanding of build systems and toolchains, including for cross-compilation 
+    Experience with firmware, uboot, UEFI, ACPI, DSDT, or boot loaders
+    Experience with power management on PCI ASPM, SATA ALPM, low power profiles 
+    Computer architecture knowledge of x86, ARM, RISC-V 
+    Experience in board design, bring up, and validation 
+    Experience with electrical engineering design tools (e.g. schematic capture, layout) 
+    Familiarity with Ubuntu development model
+    Performance engineering and security experience 
+    Shell or Python scripting skills 

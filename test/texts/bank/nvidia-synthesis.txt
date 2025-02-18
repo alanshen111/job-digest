@@ -1,0 +1,35 @@
+What you'll be doing:
+
+    You will architect highly automated and customizable design flows using modern software engineering methodologies
+
+    Build flows for methodologies incorporating logic/physical synthesis, design planning, equivalence checking for industry-leading chip designs
+
+    Be responsible for design, implementation and testing in-house of CAD programs
+
+    Work with design teams and leading EDA vendors to evaluate the industry's most powerful design implementation and analysis tools
+
+    Provide support for ASIC tools and flows
+
+    Assist chip design teams with advanced implementation tasks
+
+What we need to see:
+
+    BS in Electrical, Computer Engineering or equivalent experience with 3+ years of CAD experience; MS preferred
+
+    Be familiar with Verilog and ASIC design along with experience in commercial EDA tools
+
+    Software engineering experience with software design, algorithms, data structures, testing
+
+    Have a strong proficiency in at least one of Python, Perl, Tcl, C/C++
+
+    Knowledge or experience with logic synthesis, physical design, formal equivalence checking.
+
+    Proven track record developing flows and/or tools for chip design
+
+Ways to stand out from the crowd:
+
+    Familiarity with Machine Learning/Deep Learning
+
+    Experience in other ASIC methodologies such as RTL Lint, CDC, DFT or STA.
+
+    Experience with compute farm interaction: software deployment, performance optimization, containers, etc.

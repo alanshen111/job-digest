@@ -1,0 +1,15 @@
+What you'll do
+
+Cloudflare is looking for a backend engineer on our control plan product platform to help us build our customer APIs and our internal service APIs. This is a role for engineers that are familiar with standard backend backend architecture, and capable in database design and interaction. Our API platform is under constant load and scrutiny, so experience and commitment to easily understood and test code is also a key part of the role. Your ability to visualize the flow of data through a complex application is critical to your success, and to the team’s. You will be working closely with the product team to understand and document the functional needs of their product requirements, developing new code to solve new problems, as well as maintaining existing code to squash bugs. Our tech stack includes services built using Go, Redis, Postgres, and Cloudflare products (e.g. Workers). We are looking for proficiency in RESTful API design, relational databases (SQL), and modern containerized deployment practices. 
+
+Examples of desirable skills, knowledge and experience
+
+    3-5 years of professional experience building and managing software applications at large scale.
+    Deep knowledge of at least one modern programming language such as Go, Rust, JavaScript, PHP with strong computer science fundamentals.
+    Experience in designing and architecting large-scale distributed systems.
+    Passion for Observability (experience with Prometheus, Grafana, and Kibana are a plus, but not required).
+    Experience designing, implementing, and documenting customer-facing APIs are a huge plus.
+    Solid knowledge of SQL and common relational database systems such as PostgreSQL.
+    Experience debugging, optimizing and identifying possible failures in a large-scale distributed system.
+    Some understanding of the Cloudflare developers platform (Workers, Durable Objects, Queues, etc).
+    Experience with containers (Docker & Kubernetes) 

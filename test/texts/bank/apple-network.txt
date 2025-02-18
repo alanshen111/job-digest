@@ -1,0 +1,25 @@
+Description
+This individual will work closely with global team members in order to develop software systems to improve key engineering and operational metrics of reliability, visibility and efficiency.  This individual will need to excel in a fast-paced, dynamic work environment, collaborating closely with our core network teams, as well as cross-functionally with external groups to deliver turn-key solutions in order to reach this goal.  Due to the nature of our customer, foundational network technology knowledge will be a key skill for the ideal candidate to possess. 
+
+Minimum Qualifications
+
+    8+ years of experience in software engineering
+    Python and Django is required
+    Expert level of proficiency with modern programming languages and frameworks
+    Strong experience on relational databases such as Postgres or MySql
+    Strong software engineering background with experience with building/maintaining RESTful APIs
+    Strong experience in using CI/CD tools and techniques
+
+Preferred Qualifications
+
+    Experience with detailed architectural design, incorporating aspects of security, high availability, and resiliency into solutions
+    Excellent communications skills with the ability to establish and maintain collaboration with multi-functional technical and business teams
+    Strong project management skills, including excellent presentation development
+    Expert in writing detailed solution specifications, diagrams, standards documentation, operating procedures, test plans/reports, etc.
+    Strong experience with Linux system administration
+    Strong experience with application containerization technologies such as Docker, Kubernetes
+    Experience operating and developing infrastructure and services in cloud platforms
+    Solid understanding of centralized configuration management and provisioning technologies, such as Ansible, Puppet, Chef etc. is a plus
+    Familiarity with network protocols (TCP/IP, TLS, HTTP, BGP, MPLS, Network Telemetry)
+    Working knowledge of Network operating systems (i.e. Junos, IOS, EOS) is a plus
+    Technical Engineering Master’s degree in CS/CE

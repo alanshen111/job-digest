@@ -1,0 +1,34 @@
+In this role, you will:
+
+    Build REST APIs that power core customer experiences 
+
+    Configure monitoring for backend services 
+
+    Build CICD pipelines 
+
+    Develop integrations with our content management system 
+
+    Build features and services with reliability in mind
+
+
+Your background:
+
+    1- 3+ years experience with one or more prominent languages such as Java, Python, Kotlin, Go, or Scala is required.
+
+    Bachelor's or Master's degree (preferably a Computer Science degree or equivalent experience).
+
+    Experience performing platform integrations using REST.
+
+    A background in working with GIT in a collaborative team setting.
+
+    Familiarity with server technologies (NPM, Docker, NGINX, Express/Node).
+
+    A love for working collaboratively on a team with varied strengths. If you've got these skills, even better:
+
+    Experience working with an enterprise content management system - Experience working with cloud platforms like AWS
+
+    Java experience
+
+    Freemarker experience
+
+    Rust experience

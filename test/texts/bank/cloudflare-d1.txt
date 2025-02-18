@@ -1,0 +1,18 @@
+What you'll do
+
+We announced Cloudflare Workers in 2017  — since then it’s played a key role in Cloudflare’s strategy for entering the developer platform market. Until the launch of Workers, as Cloudflare was ramping up its capabilities in the performance and security spaces, it became clear that developers needed more ways to control the edge than rules engines could support. Workers has allowed Cloudflare to add programmability to the edge such that developers could have access to writing logic on the edge in their preferred way — through code. Over the past few years, Workers has grown from a simple functions-as-a-service option into a fully blown full-stack platform. With any application, however, in addition to serverless compute, you need to be able to manage state. In 2022, Cloudflare released D1 — built on Durable Objects, D1 is Cloudflare’s first serverless database.  In this role, you’ll be helping define and building the future of D1 to enable developers to build full stack applications. 
+Examples of desirable skills, knowledge and experience
+
+    5+ years experience building full-stack web applications.
+    Knowledge of Javascript, preferably Typescript, for both frontend and backend application development.
+    Knowledge of at least one modern strongly-typed programming language such as Go, Java, C#, Rust, or C++.
+    Experience operating high volume Software-as-a-Service (SaaS) applications.
+    Experience designing and building library and REST APIs
+    A solid understanding of computer science fundamentals including data structures, algorithms, and object-oriented or functional design.
+
+Bonus Points
+
+    A thorough understanding of database internals such as SQLite and Postgres.
+    A thorough understanding of the web and technologies such as web browsers, HTTP, JavaScript and WebAssembly.
+    Experience building developer platforms and/or tooling.
+    Experience developing on open source software projects.

@@ -1,0 +1,35 @@
+What you'll do
+
+    Hands-on experience working with threat detection and prevention product engineering teams, recognizing vulnerabilities and configuring mitigations or managing risks in existing and new products.
+    Apply a deep understanding of security vulnerabilities in web application and application security. 
+    Reverse and research n-day exploits, proactively detect patterns of bot and fraud attacks, review false positive and false negative reports, and recommend security configurations.
+    Excellent at communicating the details about security forensics to technical and non-technical audiences. Including writing public facing research blogs.
+    Authoring periodic report on trends on Internet traffic and security attack insights
+    Experience with modern cloud-based technologies used to deliver rapidly-changing products at scale.
+    Conduct penetration testing to identify security gaps and potential exploits across applications and services.
+    Develop, maintain, and enhance security dashboards to monitor and analyze attack trends, bot activity, and fraud detection metrics.
+    Leverage strong coding skills to build and automate security tools, improve system engineering workflows, and develop new security rules and heuristics.
+
+Examples of desirable skills, knowledge and experience
+
+    A degree in computer science, IT, systems engineering, or related qualification.
+    4 years of work experience with incident detection, incident response, forensics, reverse engineering, security research or similar.
+    Ability to work under pressure in a fast-paced environment.
+    Strong attention to detail with an analytical mind and outstanding problem-solving skills. Excellent organizational skills.
+    Great awareness of cybersecurity trends and hacking techniques.
+    Demonstrated results in identifying, tracking and resolving issues to resolution in the areas of cybersecurity.
+    Strong written and verbal communication skills.
+    Experience in OWASP, security standards and best practice
+    Strong SQL experience.
+    Proficiency in penetration testing methodologies, tools, and vulnerability assessment techniques.
+    Experience in building security dashboards using tools like Grafana or similar visualization platforms.
+    Strong programming experience with expertise in Python, Go, Rust, or JavaScript to develop security tools and automation.
+    Prior experience or interest in Web Security, HTTP protocols, Python, Jupyter Notebook, and JavaScript is a huge plus!
+    Knowledge and experience with machine learning, statistical inference, and AI in general is a huge plus
+
+Bonus Points
+
+    Knowledge and experience with columnar database like Clickhouse
+    Familiarity writing and optimizing advanced SQL queries
+    Good Linux/UNIX systems knowledge
+    Presented in security conferences such as Blackhat, Defcon, Bsides etc.

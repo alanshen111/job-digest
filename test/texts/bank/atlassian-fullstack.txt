@@ -1,0 +1,42 @@
+What You'll Do:
+
+    You will guide the technical direction and implementation of large-scale product features
+
+    Evaluate trade-offs between correctness, robustness, performance and customer impact to ensure we build the right solution
+
+    Collaborate with product, design and engineering to influence product strategy and direction
+
+    Ship well-tested, secure, reliable, and maintainable code while keeping our customers best interests in mind
+
+    React to how our product is used in the wild, and help to fix bugs and production issues as they occur
+
+    Contribute to code reviews, documentation, and complex bug fixes with security, performance and reliability in mind
+
+    Mentor and level up the skills of your teammates by sharing your expertise
+
+
+Your Background:
+
+    5+ years of industry experience working as a Full Stack Engineer
+
+    Bachelor's or Master's degree with a preference for Computer Science degree
+
+    Specialization in Javascript (ES6), HTML5, CSS Experience with modern Javascript frameworks (e.g., React, AngularJS, Vue)
+
+    Familiarity with server-side software development in software design, object-oriented programming. (preferred experience with Java, NodeJs)
+
+    Experience with modern testing frameworks (e.g., Jest, Cypress, Mocha, Chai)
+
+    Familiarity with A/B testing
+
+    Good understanding of front-end architecture and data-driven development
+
+    Experience building and integrating REST APIs, GraphQL
+
+    Experience with SQL and basic data and numerical analysis
+
+    Ability to work with designers to develop dynamic user experiences
+
+    Willingness to learn and be able to support the full engineering stack on a complex system
+
+    Effectively mentor junior team members to help them unleash their full potential

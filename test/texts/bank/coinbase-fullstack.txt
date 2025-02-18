@@ -1,0 +1,28 @@
+What you’ll be doing (ie. job duties): To be completed by all business teams except Eng.
+
+    Drive 0-to-1 product development for new Onchain Markets offerings
+    Develop and maintain highly interactive, responsive, and user friendly frontend applications for onchain products
+    Design, develop, and optimize smart contracts using Solidity to enable new onchain products and features
+    Build and integrate backend systems to power the onchain data needs of Onchain Markets products
+    Rapidly prototype new onchain experiences to gain early feedback
+    Troubleshoot and debug complex fullstack issues, ensuring performance, stability, reliability, and security.
+
+What we look for in you (ie. job requirements): To be completed by all business teams except Eng. 
+
+    5+ years of full-stack engineering experience shipping production features, including onchain products
+    Expert in modern JavaScript/TypeScript, React, and Next.js
+    Strong Solidity skills with experience deploying production smart contracts
+    Track record building secure, high-performance web applications
+    Deep understanding of blockchain fundamentals and DeFi protocols
+    Experience with backend development and API design
+    Proven ability to balance technical excellence with pragmatic delivery
+    Strong collaboration skills with product, design, and engineering teams
+
+Nice to haves:
+
+    Experience building or scaling DeFi protocols
+    Contributions to open-source blockchain projects
+    Background in trading systems or financial exchanges
+    Experience with Golang and cloud infrastructure (AWS)
+    Understanding of institutional trading workflows
+    Track record in high-growth crypto or fintech environments

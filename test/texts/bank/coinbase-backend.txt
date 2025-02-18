@@ -1,0 +1,26 @@
+What you’ll be doing:
+
+    Bring a 0-to-1 product to life to replace the global payment stack with crypto rails
+    Design, develop, and maintain a scalable, reliable, and secure, payment processing backend using Go, Ruby, and Solidity
+    Work with frontend engineers to rapidly prototype user flows, gain market feedback and adjust accordingly, productionizing code as necessary
+    Build the backend orchestration for a novel open-source web3 payment protocol
+    Work closely with product managers, designers, and other cross-functional partners to find product market fit
+    Leverage, maintain, and improve upon an existing legacy codebase of Coinbase Commerce
+    Follow and evangelize engineering best practices, ensuring operational excellence and sound maintenance of legacy code
+    Optimize backend performance, ensuring fast transaction processing, efficient resource utilization, and four 9’s of availability
+    Troubleshoot and debug complex fullstack issues
+
+What we look for in you:
+
+    6+ years of experience in software development with a strong focus on backend development working closely with frontend engineers; crypto experience is a plus
+    Mastery of Go and/or Ruby; experience with Solidity is a plus
+    Proven track record of rapidly shipping high-quality backend systems
+    Solid understanding of Ethereum and EVM-compatible chains and experience with developing smart contracts
+    Demonstrated commitment to excellent developer experiences and open source code, especially in relation to crypto and payments
+    Solid understanding of distributed systems, microservices architecture, and event-driven architectures, including experience with databases (PostgreSQL, MySQL, MongoDB), caching systems (Redis, Memcached), and message queues (Kafka, RabbitMQ)
+    Experience with developer operations, including Cloud providers such as AWS and containerization technologies such as Kubernetes
+    Solid understanding of web security best practices and experience with implementing secure coding practices for financial systems
+    Exceptional problem-solving skills and ability to find elegant solutions to complex challenges in the crypto payment processing domain
+    Outstanding communication, leadership, and collaboration skills, with the ability to work together effectively with cross-functional partners
+    Bachelor's or Master's degree in Computer Science, Software Engineering, or equivalent experience
+    Crypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services.

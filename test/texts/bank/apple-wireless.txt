@@ -1,0 +1,33 @@
+Description
+Core responsibilities include, but are not limited to, the following: 
+
+Design and simulate state-of-the-art wireless communication system for next generations of applications.
+
+Implement system models and investigate innovative architecture, protocols, algorithms in PHY/MAC cross-layer to mitigate the impact congested radio environment and achieve robust performance.
+
+Collaborate with product teams and come up with novel architecture, protocols, integrated systems, algorithms to meet the requirements from the emerging applications in a congested radio environment.
+
+Perform simulations to prove the efficiency of the crafted architecture, protocols, algorithms, and validate them on emulation systems.
+
+Work with firmware designers to realize the software part of these methods with high efficiency software implementation.
+
+Work with digital designers to realize the hardware part of these methods with power and area efficient digital implementations.
+
+Bring up, test and characterize the crafted algorithms, optimize the performance to achieve the targeted performances with production qualities on real silicon in lab.
+Minimum Qualifications
+
+    BS and a minimum of 3 years relevant industry experience
+    Extensive experience in developing wireless communications systems on algorithm designs, architecting, integrating systems and protocols.
+    In-depth knowledge on wireless communication system (OFDM/MIMO, etc.), including hands-on experience on lab testing and characterization.
+    Deep understanding of communication theory and signal processing related algorithms design (such as timing recovery, signal estimation and detection, automatic gain control, RF impairment estimation and correction, channel estimation, equalization and coding theory)
+    Experience with multi-radio coexistence management
+    Experience with system optimization in congested radio environment through cross-layer designs
+    Experience with Matlab or Python and/or C/C++ for algorithm development, modeling, and simulation.
+    Knowledge in existing protocols: 5G/LTE/WCDMA/GSM, 802.11a/b/g/n/ac/ax/be, 802.11ad/ay or Bluetooth/BLE.
+
+Preferred Qualifications
+
+    Some experience in modem architecture, microprocessor architecture, hardware and experience with FW design, software controls.
+    Relevant prior experience on low-power algorithm design for power critical application.
+    Knowledge on High-Level Synthesis (HLS), silicon prototyping, emulation systems and virtual platforms.
+    Prior experience on bring up of real silicon in lab and being able to efficiently use lab equipment (such as spectrum analyzer, signal generator, power meter, etc.). Experience with emulation systems and virtual platforms.

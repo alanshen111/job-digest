@@ -1,0 +1,14 @@
+What you'll be doing
+
+    Perform analyses on products to answer open-ended questions and provide strategic recommendations.
+    Design and guide experiments/analysis to measure impact and drive product improvements.
+    Develop and maintain key metrics and reports, enhancing data infrastructure for better analysis.
+
+What we look for in you:
+
+    At least a BA/BS in a quantitative field (ex Math, Stats, Physics, or Computer Science) with ≥2+ years of relevant experience.
+    Experience driving impact for a digital product with an iterative development cycle.
+    Understanding of statistical concepts and practical experience applying them (in A|B testing, causal inference, ML, etc.). 
+    Experience in data analyses using SQL.
+    Experience in programming/modeling in Python.
+    Demonstration of our core cultural values: clear communication, positive energy, continuous learning, and efficient execution.

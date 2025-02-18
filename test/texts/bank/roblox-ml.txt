@@ -1,0 +1,15 @@
+You Will:
+
+    Develop cutting-edge machine learning models for recommendation systems, search systems, image/video understanding, and text understanding.
+    Apply advanced techniques in LLMs and multimodal learning to improve content and user understanding.
+    Create end-to-end solutions to enhance search and discovery across key surfaces like the homepage, search, and experience details page.
+    Ensure the scalability, reliability, and extensibility of our machine learning systems.
+
+You Have:
+
+    Possess or pursuing a Ph.D. in Computer Science, Computer Engineering, Data Science, or a similar technical degree.
+    Proficiency in one or more programming languages such as Go, Python, C++, or C#
+    Expertise in one or more of the following areas: recommendation systems, information retrieval, text/image/video understanding, or GenAI/foundation models.
+    Strong background in advanced techniques such as LLMs, multimodal learning, and other state-of-the-art machine learning methods.
+    Experience building and working on end-to-end ML pipelines, including data processing, modeling, and production deployment.
+    Published and presented peer-reviewed articles in top-tier venues, such as NeurIPS, ICML, ICLR, ACL, EMNLP, CVPR, ICCV, KDD, WWW and RecSys.

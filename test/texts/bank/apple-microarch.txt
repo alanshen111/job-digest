@@ -1,0 +1,22 @@
+Description
+As a RTL Engineer, you will own or participate in the following:
+
+• Microarchitecture development and specification - from early high-level architectural exploration through micro architectural research and arriving at a detailed specification
+• RTL feature ownership – development, assessment and refinement of new RTL features to target power, performance, area and timing goals
+• Validation - support test bench development and simulation for functional and performance verification Performance exploration and correlation - explore high performance strategies and validate that the RTL design meets targeted performance
+• Design delivery - work with multifunctional engineering team to implement and validate physical design on the aspects of timing, area, reliability, testability, and power
+
+Minimum Qualifications
+
+    Minimum BS and 10+ years of relevant industry experience
+    Experience with Verilog and/or VHDL
+    Experience with simulators and waveform debugging tools
+    Experience with logic design principles
+
+Preferred Qualifications
+
+    Experience with microprocessor architecture, including experience with at least one of the following: instruction fetch and decode, branch prediction, instruction scheduling and register renaming, out-of-order execution, integer and floating point execution, load/store execution, or cache and memory subsystems
+    Experience with timing, power and area tradeoffs in CPU microarchitecture
+    Experience with low power and high performance microarchitecture techniques
+    Experience using an interpretive language such as Perl or Python
+    Experience in C or C++ programming

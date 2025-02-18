@@ -1,0 +1,37 @@
+Position Responsibilities:
+
+    Designs, develops, tests, and maintains non-embedded software throughout the end-to-end lifecycle that meets industry, customer, safety, and regulation standards
+
+    Reviews, analyzes, and translates customer requirements into initial design of software products. Develops, maintains, enhances and optimizes software products and functionalities for systems integrations
+
+    Develops, documents and maintains architectures, requirements, algorithms, interfaces and designs for software products
+
+    Debugs and resolves issues identified to ensure the reliability and efficiency of software products. Handles user inquiries, troubleshoots technical issues and user feedback analysis
+
+    Implements current and emerging technologies, tools, frameworks and changes in regulations relevant to software development
+
+    Develops, establishes, monitors and improves software processes, tools and key performance metrics that align projects with organizational goals and industry benchmarks
+
+    Plans, executes and documents software research and development projects
+
+    Advises on software domains, system-specific issues, processes and regulations
+
+    Performs software project management activities and software supplier management functions
+
+    Tracks and evaluates software team and supplier performance to ensure product and process compliance to project plans and industry standards
+
+Required Qualifications (Required Skills/ Experience):
+
+    Experience with C, C++, Java, Ada, and/or Python
+
+    2 plus years’ experience working in a project where various software development methodologies are being utilizing
+
+Preferred Qualifications (Desired Skills/Experience):
+
+    Science degree from an accredited course of study, in Computer Engineering, Software Engineering, Electrical Engineering, Aerospace Engineering, Computer Science, Mathematics, or Physics, Computer Science, or other technical degree
+
+    Software development experience in a collaborative team environment using agile principles and a structured development process including code reviews and automated DevOps processes/tools
+
+    Experience using team collaboration tools including Git, Bitbucket, JIRA, and Confluence
+
+    Experience in software development using languages such as C, C++, Java, Ada, and/or Python

@@ -1,0 +1,32 @@
+What you'll be doing:
+
+    In this position, you will be responsible for verification of high-speed coherent interconnect design, architecture and golden models.
+
+    You will be responsible for micro-architecture using sophisticated verification methodologies.
+
+    As a member of our verification team, you'll understand the design & implementation, define the verification scope, develop the verification infrastructure (Testbenches, BFMs, Checkers, Monitors), complete test/coverage plans, and verify the correctness of the design. This role will collaborate with architects, designers, emulation, and silicon verification teams to accomplish your tasks.
+
+What we need to see:
+
+    Bachelors or Master’s Degree (or equivalent experience)
+
+    3+ years of relevant verification experience.
+
+    Experience in architecting test bench environments for unit level verification.
+
+    Background in verification using random stimulus along with functional coverage and assertion-based verification methodologies.
+
+    Prior Design or Verification experience of Coherent high-speed interconnects.
+
+    Knowledge of industry standard interconnect protocols like PCIE, CXL, CHI will be useful.
+
+    Strong background developing TB's from scratch using SV and UVM methodology is desired.
+
+    C++ programming language experience, scripting ability and an expertise in System Verilog.
+
+    Exposure to design and verification tools (VCS or equivalent simulation tools, debug tools like Debussy, GDB).
+
+    Strong debugging and analytical skills.
+
+    Experienced communication and interpersonal skills are required. A history of mentoring junior engineers and interns a huge plus.
+

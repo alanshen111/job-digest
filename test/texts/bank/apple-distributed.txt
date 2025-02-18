@@ -1,0 +1,21 @@
+Description
+Design, develop, test, and deploy event-based micro-services that handle multi-source sports and media metadata that feed into a knowledge graph. Design algorithms for processing of metadata across a multitude of media types like movies, TV shows, sporting events, etc. Design and implement services using Java, leveraging infrastructure components like Kafka, Cassandra, Redis, Solr, PostgreSQL, Kubernetes, etc. Analyze data from providers and partners using Python and Spark in order to distill insights that can improve the quality of the knowledge graph. Provide technical leadership and drive overall design and planning.
+
+Minimum Qualifications
+
+    3+ years of experience working with Java or Python
+    Experience with Kafka or ActiveMQ or similar messaging frameworks
+    Experience with NoSQL datastores like Cassandra, DynamoDB and SQL datastores like PostgreSQL, MySQL
+    Proficient in algorithms and data structures
+    Driven to deliver high quality solutions consistently and quickly.
+    Ability to communicate effectively, both verbal and written.
+    Ability to solve problems given incomplete or partial data and/or requirements
+    Bachelor’s in CS or equivalent industry experience.
+
+Preferred Qualifications
+
+    Data analytics using Python and Spark. Experience with data mining techniques and record linkage systems.
+    Experience working with Kubernetes
+    Experience working with Solr/Elasticsearch, Redis,
+    Familiarity with async and reactive programming using Project Reactor, RxJava, asyncio, etc.
+    Masters degree is a plus

@@ -114,6 +114,8 @@
     "Redis",
     "Raspberry Pi",
     "RISC",
+    "RTL",
+    "SoC",
     "Spark",
     "SparkML",
     "Splunk",
@@ -124,6 +126,7 @@
     "Unix",
     "Unreal Engine",
     "Visual Studio",
+    "VLSI",
     "Windows",
     "Wireshark",
     "x86"

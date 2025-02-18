@@ -1,0 +1,57 @@
+Position responsibilities:
+
+    Design, development, deployment, and maintenance of cloud environments to support product software development
+
+    Develop Cloud Based Software Development Pipelines
+
+    Collaborating closely with our IT and cybersecurity colleagues to ensure cost-effective, timely, and secure deployment of the environment and its tools
+
+    Interfacing with development groups across the F/A-18 & EA-18G program in the planning and deployment of software factories and other toolchains and components
+
+    Interfacing and collaborating with programs across Air Dominance during planning and implementation stages to ensure knowledge sharing and commonality where applicable across platforms
+
+    Support evaluations, trade studies, and strategy discussions regarding cloud environments
+
+    Ensure consistent DevSecOps deployments into cloud environments
+
+    Responsible for time-phased Roadmap Development for F18 Mission System’s transition to the cloud
+
+    Conduct evaluations, trade studies, and strategy discussions regarding cloud environments
+
+    Ensure consistent DevSecOps deployments into cloud environments
+
+This position is expected to be 100% onsite. The selected candidate will be required to work onsite at one of the listed location options.
+
+The candidate selected may be required travel and work onsite at Boeing Berkeley, MO to receive initial training.  The assigned work location and will be based in Daytona Beach, Florida upon completion of the training.
+
+Basic Qualifications (Required Skills/Experience):
+
+    Experience designing cloud architectures in AWS, Azure, or GCP
+
+    Experience writing infrastructure as code using Terraform or CloudFormation
+
+    Experience with automation tools such as Ansible
+
+    3+ years’ experience working with and supporting Linux systems
+
+    3+ years’ experience of at least one of the following languages Java, Python, Go, or C++
+
+Preferred Qualifications (Desired Skills/Experience):
+
+    Bachelor of Science degree from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), chemistry, physics, mathematics, data science, or computer science
+
+    Experience with Coverity scans or similar tools.
+
+    Experience with security and monitoring cloud technologies such as IAM, GuardDuty, or Security Hub (or equivalent)
+
+    Experience in software development, systems engineering, or integration and test experience with mission systems on tactical platforms
+
+    Strong Working knowledge of the CI/CD process including debugging, test, and integration of software tools
+
+    Strong communication skills and a self-starter that can thrive in a fast paced, agile work environment
+
+    Understanding of designing and implementing full stack/microservice infrastructure
+
+    Understanding of secure software development methodologies and Security First mindset
+
+    Experience with security frameworks such as DoD RMF, CMMC, DFARS, and FedRAMP

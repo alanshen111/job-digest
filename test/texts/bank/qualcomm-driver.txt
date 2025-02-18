@@ -1,0 +1,41 @@
+Minimum Qualifications:
+• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 6+ years of Software Engineering or related work experience.
+OR
+Master's degree in Engineering, Information Systems, Computer Science, or related field and 5+ years of Software Engineering or related work experience.
+OR
+PhD in Engineering, Information Systems, Computer Science, or related field and 4+ years of Software Engineering or related work experience.
+
+• 3+ years of work experience with Programming Language such as C, C++, Java, Python, etc.
+
+This position shall:
+
+    Drive product definition and requirements for the software product.
+    Oversee software development planning and execution and drive the product delivery in alignment with leading edge Automotive OEMs
+    Coordinate end-to-end architecture and design, including considerations for functional-safety and cybersecurity
+    Champion continuous process improvements across various stages in the development lifecycle, including participation in process and project audits, driving process maturity metrics.
+    Participate to software development throughout entire lifecycle across multiple technologies
+
+Ideal candidate shall possess the following qualifications:
+
+    10+ years of progressive Systems Software Engineering and related work experience.
+    Proven experience in developing software for real time embedded systems in automotive electronics with good understanding of SoC architectures.
+    Excellent verbal and written communication skills, as well as organizational abilities.
+    Demonstrated ability to translate and navigate business and customer goals into actionable engineering and technology solutions.
+    Proven hands-on and self-driven ability to boot-strap, define, and deliver into successful products.
+    Strong understanding of software engineering tools and workflows.
+    Demonstrated ability to lead cross-functional teams and enable teams to solve sophisticated challenges across SoC, Hardware and Software.
+    Experience in communicating and coordinating with clients and customers on technical issues
+
+Required Skills
+
+    8+ years of focused extensive embedded software engineering (C/C++) background including must-have experience in Camera technology
+    Proven development experience on big scale drivers in RTOS and Linux ecosystems
+    In-depth understanding of Camera/ISP/Image sensors, SoC architecture and RTOS.
+    Strong understanding of Camera ISP features and functionalities 
+
+Preferred skills
+
+    Camera tuning experiences and working knowledge
+    Working knowledge of popular automotive SERDES
+    Programming experience with popular sensor modules
+    Experience delivering large scale SW for Automotive ADAS/Compute or Infotainment programs.

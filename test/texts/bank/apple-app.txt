@@ -1,0 +1,22 @@
+Description
+As a member of the team you’ll have the opportunity to work with specialists in their field to expand the functionality of the Health app and other health features on iOS and Apple Watch and support the broader health related efforts at Apple. This position requires a self-motivated engineer with strong technical and interpersonal skills to handle responsibilities including:  
+- Implementing new features in the Health space 
+- Prototyping new ideas to help with initial feature definition 
+- Communicating ideas to the Apple design team and other cross functional teams 
+- Participating in architecture and code reviews 
+- Building internal tools as needed to help ship high quality software
+
+Minimum Qualifications
+
+    iOS development experience
+    Experience with both Objective C & Swift
+    Experience with iOS frameworks such as UIKit
+    Proven software architecture experience
+    3+ years industry experience
+
+Preferred Qualifications
+
+    Ability to understand and break down large features into complete solutions
+    Excellent interpersonal skills and ability to work well with all levels of engineers and other teams
+    BS Computer Science
+    Familiarity with Wellness or Medical concepts

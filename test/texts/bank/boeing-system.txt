@@ -1,0 +1,49 @@
+Position Responsibilities:
+
+    Supporting/planning software development tasks including detailed software design, coding, and unit/integration/functional/system testing of customer desired features/user stories, ensuring successful achievement of acceptance criteria.
+
+    Develop and sustain new and existing applications; as well as troubleshoot and resolve various software issues.
+
+    Customer/stakeholder presentation and reporting skills.  Briefing software designs and demonstrating software release functionality to customer/stakeholders/end users.
+
+    Analyzing high level customer requirements and deriving lower-level functional requirements.
+
+    Software development tasks including detailed software design, coding, and testing of customer desired features/user stories.
+
+    Briefing software designs and demonstrating software release functionality to users.
+
+    Develop and sustain new and existing applications; as well as troubleshoot and resolve various software issues.
+
+    Contribute to the creation of new distributed components and interactions that align with the future system architecture.  The existing multi-tiered system is developed on a cloud infrastructure with several consumer-facing web applications.
+
+    This position is contingent upon clearance verification and program/customer concurrence. Offer is contingent upon security approval for program access.
+
+This position is expected to be 100% onsite.  The selected candidate will be required to work onsite at one of the listed location options.
+
+Basic Qualifications (Required Skills/ Experience):
+
+    3 or more years of experience analyzing data and/or identifying functional and systems requirements with customers
+
+    2 or more years of experience in systems engineering including system architecture development, systems integration, and/or hardware/software design and analysis
+
+    2 or more years of experience developing presentations and briefing customers
+
+    Familiarity with Agile or SAFe practices, including daily standup, User Stories, Sprints, and Release Planning 
+
+    Must be willing to sit for a CI Polygraph after start date
+
+Preferred Qualifications (Desired Skills/Experience):
+
+    5 or more years' related work experience or an equivalent combination of education and experience
+
+    Bachelor of Science degree or higher from an accredited course of study, in Computer Engineering, Computer Science or other technical degree
+
+    Degree in areas that may include astrophysics, aerospace, applied mathematics, systems engineering, or the like relevant to the space domain.
+
+    2+ years of experience leading projects and/or individuals in software development lifecycle tasks
+
+    Agile software development lifecycle knowledge
+
+    Knowledge of project planning processes and tools (i.e., project management software) to define, design, and plan projects, achieve project deliverables, optimize the contributions of internal and external resources, and accomplish desired business results
+
+    Effective use of Atlassian Products (e.g. Jira, Confluence, Crucible, etc.)

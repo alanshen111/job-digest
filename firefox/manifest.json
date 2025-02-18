@@ -1,6 +1,6 @@
 {
     "name": "Job Digest",
-    "description": "Extracts tech stack keywords from text",
+    "description": "Extracts software engineering keywords from text",
     "version": "1.0",
     "manifest_version": 3,
     "web_accessible_resources": [

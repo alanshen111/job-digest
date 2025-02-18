@@ -21,10 +21,11 @@ fetch(chrome.runtime.getURL("keywords.json"))
                     
                     // Matching criteria for keywords
                     // - Whole words only, with exceptions to pluralization and punctuation
-                    // - Case-insensitive
+                    // - Case-insensitive, except for short words (e.g. Go)
                     const matchKeyword = (keyword: string): boolean => {
+                        const flag = keyword.length <= 3 ? "" : "i";
                         const escapedKeyword = keyword.replace(/[.*+?^=!:${}()|\[\]\/\\]/g, '\\$&');
-                        const regex = new RegExp(`(^|\\s|[.,!?;:/()\\[\\]{}\\-'""])${escapedKeyword}(?:s)?($|\\s|[.,!?;:/()\\[\\]{}\\-'""])`, "i");
+                        const regex = new RegExp(`(^|\\s|[.,!?;:/()\\[\\]{}\\-'""])${escapedKeyword}(?:s)?($|\\s|[.,!?;:/()\\[\\]{}\\-'""])`, flag);
                         return regex.test(selectedText);
                     }
 

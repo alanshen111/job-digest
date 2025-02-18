@@ -1,0 +1,30 @@
+Role Summary
+
+    Implement platform-level software safety requirements
+    Contribute to the creation of safety requirements for platform software
+    Develop SW architecture for safety, including ASIL decomposition, freedom-from-interference analysis, dependent failure analysis
+    Design, develop and deploy embedded platform software, including drivers, OS fundamentals, and middleware libraries
+    Collaborate with the hardware team on overall design, schematics, and hardware validation
+    Work closely with other development and cross-functional team members such as Charging, Body Controls, Infotainment, and Vehicle Dynamics
+
+Responsibilities
+
+    Strong C programming skills
+    Experience with ISO 26262
+    Experience with safety analysis using FTA, SW-FMEA
+    Real Time Operating Systems (RTOS)
+    Embedded software development and optimization
+    Multi-threaded and multi-core programming
+    Software development for systems with live sensor inputs
+    High performance processors and platforms such as ARM, ATOM, DSP, FPGA, GPU
+    Software development on microcontrollers
+    Good team player with great communication skills
+    Ability to work in a fast-paced development environment
+    Passionately motivated to take ideas from R&D phase to a product
+
+Qualifications
+
+    Bachelor of science in computer science, computer engineering, electrical engineering or software engineering
+    Experience aligning technical implementation cross-functionally with other teams optimizing for the best overall result for the product
+    Working experience with automated requirements management tools and issue tracking tools
+    Experience and knowledge of Body Controls and Embedded Software Engineering

@@ -1,0 +1,21 @@
+/* Basic Dark Mode */
+body {
+    background-color: #121212;
+    color: #b9b9b9;
+    font-family: "Segoe UI", Tahoma, Geneva, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.job-box {
+    background-color: #232323;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    white-space: pre-wrap; 
+}

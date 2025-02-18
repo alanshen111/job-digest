@@ -11,7 +11,6 @@ chrome.runtime.onInstalled.addListener(() => {
 
 // On menu click, send command and text to content script
 chrome.contextMenus.onClicked.addListener((info: chrome.contextMenus.OnClickData, tab?: chrome.tabs.Tab) => {
-    console.log("background.js: menu clicked");
     if (info.menuItemId === "extractKeywords" && tab?.id) {
         chrome.tabs.sendMessage(tab.id, {
             action: "extractKeywords",
@@ -22,7 +21,6 @@ chrome.contextMenus.onClicked.addListener((info: chrome.contextMenus.OnClickData
 
 // Helper function for injecting script (needed in MV3)
 function sendExtractCommand(selectionText: string): void {
-    console.log("background.js: sending extract command");
     chrome.runtime.sendMessage({
         action: "extractKeywords",
         selection: selectionText

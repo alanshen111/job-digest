@@ -12,7 +12,7 @@ chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
     chrome.runtime.sendMessage(
         { action: "getKeywords", tabId: activeTabId },
         (response?: KeywordsResponse) => {
-            if (!response?.keywords) {
+            if (!response?.keywords || response.keywords.every((list) => list.length === 0)) {
                 console.log("popup.ts: No keywords found.");
                 return;
             }

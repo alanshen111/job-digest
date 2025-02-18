@@ -33,6 +33,11 @@ fetch(chrome.runtime.getURL("keywords.json"))
                     const foundTechnologies = keywords.technologies.filter(matchKeyword);
                     const foundConcepts = keywords.concepts.filter(matchKeyword);
 
+                    // Update badge with total number of keywords found
+                    // Background has to do this, content can't access chrome.action
+                    const totalFound = foundLanguages.length + foundFrameworks.length + foundTechnologies.length + foundConcepts.length;
+                    chrome.runtime.sendMessage({ action: "updateBadge", totalFound });
+
                     chrome.runtime.sendMessage({
                         action: "storeKeywords",
                         languages: foundLanguages,

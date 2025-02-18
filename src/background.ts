@@ -47,13 +47,21 @@ chrome.runtime.onMessage.addListener(
             });
             return true; 
         }
+
+        if (message.action === "updateBadge") {
+            chrome.action.setBadgeText({ text: message.totalFound.toString() });
+            chrome.action.setBadgeBackgroundColor({ color: "#2b2a33" });
+            chrome.action.setBadgeTextColor({ color: "#cfcfd8" });
+        }
+
     }
 );
 
-// Listen for tab updates (clear data on reload)
+// Listen for tab updates
 chrome.tabs.onUpdated.addListener((tabId: number, changeInfo: chrome.tabs.TabChangeInfo) => {
     if (changeInfo.status === "loading") {
         delete tabKeywordMap[tabId];
         chrome.storage.session.set({ tabKeywordMap });
+        chrome.action.setBadgeText({ text: "" });
     }
 });

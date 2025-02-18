@@ -20,11 +20,19 @@ browser.tabs.query({ active: true, currentWindow: true }).then((tabs) => {
 
     const keywordsListElement = document.getElementById("keywordsList");
     keywordsListElement.innerHTML = ""; // Clear previous entries
+    const header = document.createElement("h2");
+    header.textContent = "Keywords";
     
     displayKeywords(keywordsListElement, languagesList, "Languages");
     displayKeywords(keywordsListElement, frameworksList, "Frameworks");
     displayKeywords(keywordsListElement, technologiesList, "Technologies");
     displayKeywords(keywordsListElement, conceptsList, "Concepts");
+
+    document.querySelectorAll('li').forEach(item => {
+        item.addEventListener('click', () => {
+            item.classList.toggle('active');
+        });
+    });
 
 }).catch(error => console.error("popup.js: Error fetching keywords:", error)); // Catch any errors
 
@@ -38,3 +46,4 @@ function displayKeywords(keywordsListElement, keywords, title) {
         keywordsListElement.appendChild(li);
     });
 }
+

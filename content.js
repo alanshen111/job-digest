@@ -12,14 +12,14 @@ fetch(browser.runtime.getURL("keywords.json"))
 
                 // Matching criteria for Languages, Frameworks, and Technologies
                 const matchKeyword = (keyword) => {
+                    const flag = (keyword.length <= 3 || keyword === keyword.toUpperCase()) ? "" : "i";
                     const escapedKeyword = keyword.replace(/[.*+?^=!:${}()|\[\]\/\\]/g, '\\$&');
-                    const regex = new RegExp(`(^|\\s|[.,!?;:/()\\[\\]{}\\-'""])${escapedKeyword}($|\\s|[.,!?;:/()\\[\\]{}\\-'""])`, "i");
+                    const regex = new RegExp(`(^|\\s|[.,!?;:/()\\[\\]{}\\-'""])${escapedKeyword}($|\\s|[.,!?;:/()\\[\\]{}\\-'""])`, flag);
                     return regex.test(selectedText);
                 };
 
-                // Concepts are matched differently, as they are common words with relaxed spellings and usage
+                // Concepts are matched with less criteria
                 const matchConcept = (keyword) => {
-                    // If the keyword is less than 3 characters or all uppercase, use sensitive matching
                     if (keyword.length <= 3 || keyword === keyword.toUpperCase()) {
                         return selectedText.includes(keyword);
                     }

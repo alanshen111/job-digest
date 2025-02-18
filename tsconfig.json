@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "types": ["chrome"],
+        "target": "ES6",
+        "module": "ESNext",
+        "outDir": "dist",   
+        "rootDir": "src",    
+        "strict": true
+    },
+    "include": ["src"]
+}

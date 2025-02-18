@@ -1,3 +1,5 @@
-# Ignore the src manifest used for testing
+# Ignore built typescript files
+dist/*.js
+# Ignore the manifest used for testing
 # For shipping, please move the respective manifest to the root of the package
-src/manifest.json
+dist/manifest.json

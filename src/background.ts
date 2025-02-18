@@ -4,7 +4,7 @@ let tabKeywordMap: Record<number, string[][]> = {}; // Map by tab, each containi
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
         id: "extractKeywords",
-        title: "Digest selected text...",
+        title: "Digest...",
         contexts: ["selection"]
     });
 });

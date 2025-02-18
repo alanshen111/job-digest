@@ -2,7 +2,6 @@ let tabKeywordMap = {}; // Map of keyword arrays by tab ID
 
 // On install, create menu button
 browser.runtime.onInstalled.addListener(() => { 
-    console.log("background.js: installed");
     browser.contextMenus.create({
       id: "extractKeywords",
       title: "Digest selected text...",
@@ -12,7 +11,6 @@ browser.runtime.onInstalled.addListener(() => {
   
 // On menu click, send command and text to content script
 browser.contextMenus.onClicked.addListener((info, tab) => {
-    console.log("background.js: menu clicked");
     if (info.menuItemId === "extractKeywords") {
         browser.tabs.sendMessage(tab.id, {
             action: "extractKeywords",
@@ -26,11 +24,15 @@ browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
 
     // Store keywords in the map
     if (message.action === "storeKeywords") {
-        console.log("background.js: keywords found:", message.keywords);
-        tabKeywordMap[sender.tab.id] = message.keywords;
+        tabKeywordMap[sender.tab.id] = [
+            message.languages,
+            message.frameworks,
+            message.technologies,
+            message.concepts
+        ];
     }
 
-    // Retrieve keywords for a specific tab
+    // Get keywords for a specific tab
     if (message.action === "getKeywords") {
         const tabId = message.tabId;
         const keywords = tabKeywordMap[tabId] || []; 

@@ -1,0 +1,60 @@
+/* style based on https://acorn.firefox.com/latest/styles/color-MZHBVuZc */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2b2a33;
+    color: #cfcfd8;
+    font-family: "Segoe UI", Tahoma, Geneva, sans-serif;
+    padding: 20px;
+    font-size: 14px;
+    width: 400px;
+    max-width: 100%;
+    word-wrap: break-word;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+li {
+    background-color: #42414d;
+    margin: 5px 0;
+    padding: 8px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    white-space: nowrap;
+    width: auto;
+}
+
+li:hover {
+    background-color: #52525e;
+}
+
+li.active {
+    background-color: #7542e4;
+}
+
+.instructions li {
+    display: block; 
+}
+
+a {
+    color: #ab71ff; 
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #9059ff; 
+    text-decoration: underline;
+}

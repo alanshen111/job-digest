@@ -3,3 +3,5 @@ dist/*.js
 # Ignore the manifest used for testing
 # For shipping, please move the respective manifest to the root of the package
 dist/manifest.json
+dist-chrome
+dist-firefox

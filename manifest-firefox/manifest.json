@@ -1,8 +1,13 @@
 {
   "name": "Job Digest",
-    "description": "Extracts software engineering keywords from text",
+  "description": "Extracts software engineering keywords from text",
   "version": "1.0",
   "manifest_version": 3,
+  "browser_specific_settings": {
+    "gecko": { 
+      "id": "alanshen111@job-digest.com" 
+    }
+  },
   "web_accessible_resources": [
     {
       "resources": [

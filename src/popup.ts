@@ -1,5 +1,3 @@
-console.log("popup.ts: loaded");
-
 interface KeywordsResponse {
     keywords: [string[], string[], string[], string[]];
 }
@@ -8,12 +6,13 @@ interface KeywordsResponse {
 chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
     const activeTabId = tabs[0]?.id;
     if (!activeTabId) return;
-
+    //console.log("Querying for keywords of tab", activeTabId);
     chrome.runtime.sendMessage(
         { action: "getKeywords", tabId: activeTabId },
         (response?: KeywordsResponse) => {
+            //console.log("Received keywords");
             if (!response?.keywords || response.keywords.every((list) => list.length === 0)) {
-                console.log("popup.ts: No keywords found.");
+                //console.log("No keywords found.");
                 return;
             }
 

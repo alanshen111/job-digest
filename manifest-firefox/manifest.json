@@ -14,27 +14,27 @@
     }
   ],
   "permissions": [
-      "activeTab",
-      "contextMenus",
-      "storage",
-      "scripting"
+    "activeTab",
+    "contextMenus",
+    "storage",
+    "scripting"
   ],
   "background": {
-      "scripts": ["background.js"]
+    "scripts": ["background.js"]
   },
   "action": {
-      "default_popup": "popup.html",
-      "default_icon": "img/icon.png"
+    "default_popup": "popup.html",
+    "default_icon": "img/icon128.png"
   },
   "icons": {
-    "16": "img/icon.png",
-    "48": "img/icon.png",
-    "128": "img/icon.png"
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
   },
   "content_scripts": [
-      {
-          "matches": ["<all_urls>"],
-          "js": ["content.js"]
-      }
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
   ]
 }

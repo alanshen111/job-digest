@@ -31,6 +31,7 @@ function sendExtractCommand(selectionText: string): void {
 chrome.runtime.onMessage.addListener(
     (message: any, sender: chrome.runtime.MessageSender, sendResponse: (response?: any) => void) => {
         if (message.action === "storeKeywords" && sender.tab?.id) {
+            //console.log("Storing extracted keywords...");
             tabKeywordMap[sender.tab.id] = [
                 message.languages,
                 message.frameworks,
@@ -41,6 +42,7 @@ chrome.runtime.onMessage.addListener(
         }
 
         if (message.action === "getKeywords") {
+            //console.log("Getting keywords...");
             const tabId = message.tabId;
             chrome.storage.session.get("tabKeywordMap", (data: { tabKeywordMap?: Record<number, string[][]> }) => {
                 sendResponse({ keywords: data.tabKeywordMap?.[tabId] || [] });

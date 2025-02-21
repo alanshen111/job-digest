@@ -1,5 +1,3 @@
-console.log("content.ts: injected");
-
 interface Keywords {
     languages: string[];
     frameworks: string[];
@@ -15,7 +13,8 @@ fetch(chrome.runtime.getURL("keywords.json"))
         chrome.runtime.onMessage.addListener(
             (message: { action: string; selection: string }, sender, sendResponse) => {
                 if (message.action === "extractKeywords") {
-                    console.log("content.ts: extracting keywords");
+                    
+                    //console.log("Extracting keywords...");
 
                     const selectedText: string = message.selection;
                     

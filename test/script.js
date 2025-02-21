@@ -1,12 +1,9 @@
-console.log('Hello, world!');
-
 async function loadJobPostings() {
     const container = document.getElementById('jobs-container');
 
     // Fetch the list of text files from the server
     const response = await fetch('/api/text-files');
     const txtFiles = await response.json();
-    console.log(txtFiles);
 
     // Dynamically create boxes for each file
     txtFiles.forEach(async (fileName) => {

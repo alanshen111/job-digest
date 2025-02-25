@@ -1,6 +1,6 @@
 {
   "name": "Job Digest",
-  "description": "Extracts software engineering keywords from text",
+  "description": "Extracts software engineering keywords from job postings.",
   "version": "1.0",
   "manifest_version": 3,
   "browser_specific_settings": {
@@ -21,8 +21,7 @@
   "permissions": [
     "activeTab",
     "contextMenus",
-    "storage",
-    "scripting"
+    "storage"
   ],
   "background": {
     "service_worker": "background.js"

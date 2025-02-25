@@ -1,5 +1,9 @@
 # Job Digest
 
+[link-firefox]: https://addons.mozilla.org/en-CA/firefox/addon/job-digest/
+
+[<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/firefox/firefox.svg" width="48" alt="Firefox" valign="middle">][link-firefox] 
+
 Job Digest is a browser extension that extracts software engineering related keywords from selected text.
 
 1. Highlight job description
@@ -12,5 +16,5 @@ Available on all browser-unprotected websites, such as Indeed, LinkedIn, Glassdo
 
 If you have any questions or issues, please contact me.
 
-![](screenshot.jpg)
+![screenshot](screenshot.jpg)
 
